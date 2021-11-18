@@ -1,0 +1,24 @@
+_repo: Drinks-of-the-World_66735
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Ashton, John
+    birthdate: 1834
+    deathdate: 1911
+    gutenberg_agent_id: '9006'
+    url: http://www.gutenberg.org/2009/agents/9006
+  - agent_name: Mew, James
+    gutenberg_agent_id: '53934'
+    url: http://www.gutenberg.org/2009/agents/53934
+description: ''
+gutenberg_issued: '2021-11-14'
+identifiers:
+  gutenberg: '66735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Drinks of the World
+url: http://www.gutenberg.org/ebooks/66735
