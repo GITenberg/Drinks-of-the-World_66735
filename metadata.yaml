@@ -1,5 +1,8 @@
 _repo: Drinks-of-the-World_66735
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66735-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Ashton, John
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '53934'
     url: http://www.gutenberg.org/2009/agents/53934
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66735#Drinks-of-the-World
 gutenberg_issued: '2021-11-14'
 identifiers:
   gutenberg: '66735'
